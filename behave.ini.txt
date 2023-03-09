@@ -1,0 +1,3 @@
+[behave]
+# specify the directory containing your step definitions
+steps_dir = step_definitions
