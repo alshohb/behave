@@ -9,5 +9,7 @@ load_time.feature: Behave feature file defining test scenarios for page load spe
 Usage:
 
 Clone the repository: git clone https://github.com/alshohb/behave.git
+
 Install dependencies: pip install -r requirements.txt
+
 Execute tests: behave
